@@ -4,4 +4,8 @@ void main() {
 
   name = 'popoci';
   print('Hello $name');
+
+//  final
+  final human = 'Yurika';
+  print(human);
 }
